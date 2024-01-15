@@ -53,9 +53,9 @@ const handler = async (data: InputType): Promise<ReturnType> => {
         line_items: [
           {
             price_data: {
-              currency: "INR",
+              currency: "USD",
               product_data: {
-                name: "Taskify Pro",
+                name: "Organize Flow Pro",
                 description: "Unlimited boards for your organization"
               },
               unit_amount: 2000,
